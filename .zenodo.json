@@ -1,0 +1,15 @@
+{
+  "title": "showerhead-equiv: 3D-to-2D equivalence of multi-hole showerhead rings",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {"name": "Yoon, Jung Hwan", "affiliation": "Department of Mechanical Engineering, Dong-A University, Busan, Republic of Korea"}
+  ],
+  "description": "Python package and web calculator accompanying the article 'A 3D-to-2D modelling framework of multi-hole showerheads for process screening of remote plasma reactors' (J. H. Yoon and J.-H. Lee, submitted to Nature Chemical Engineering). For each concentric ring of N identical cylindrical holes it returns the axisymmetric representation used in the article: the annular slot half-width that preserves the laminar flow conductance of the ring at a given pressure drop (Eq. 3) and the effective wall reaction probability gamma_eff = gamma N r / (2L) that preserves the wall loss of radicals on the hole side walls (Eq. 4). Standard library only; includes a command-line batch tool, a synthetic example with reference outputs and tests. The proprietary hole layouts of the reactors studied in the article are not included.",
+  "keywords": ["showerhead", "remote plasma", "chamber cleaning", "reactor modelling", "computational fluid dynamics", "model reduction"],
+  "access_right": "open",
+  "language": "eng",
+  "related_identifiers": [
+    {"identifier": "https://junghwanyoon.dev/tools/showerhead-calculator/v1.0", "relation": "isDocumentedBy", "resource_type": "other", "scheme": "url"}
+  ]
+}

@@ -1,0 +1,7 @@
+label,r_mm,N,L_mm,H_mm
+example ring 1,0.50,6,8.0,5.0
+example ring 2,0.50,12,16.0,5.0
+example ring 3,0.50,18,24.0,5.0
+example ring 4,0.45,30,40.0,5.0
+example ring 5,0.45,48,64.0,5.0
+example ring 6,0.40,72,96.0,5.0

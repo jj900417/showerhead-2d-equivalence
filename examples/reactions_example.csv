@@ -1,0 +1,3 @@
+name,gamma
+R1: F + 0.25SiO2 -> 0.25SiF4 + 0.25O2 (pre-exponential gamma_0),0.015823
+R2: F -> 0.5F2 (recombination),0.00007

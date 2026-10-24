@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the article and this software version."
+type: software
+title: "showerhead-equiv: 3D-to-2D equivalence of multi-hole showerhead rings"
+version: "1.0.0"
+date-released: "<YYYY-MM-DD>"
+doi: "<VERSION_DOI>"
+url: "https://junghwanyoon.dev/tools/showerhead-calculator/v1.0"
+repository-code: "https://github.com/jj900417/showerhead-2d-equivalence"
+license: MIT
+authors:
+  - family-names: Yoon
+    given-names: Jung Hwan
+    affiliation: "Department of Mechanical Engineering, Dong-A University, Busan, Republic of Korea"
+    orcid: "https://orcid.org/<ORCID>"
+keywords:
+  - showerhead
+  - remote plasma
+  - chamber cleaning
+  - reactor modelling
+  - computational fluid dynamics
+  - model reduction
+preferred-citation:
+  type: article
+  title: "A 3D-to-2D modelling framework of multi-hole showerheads for process screening of remote plasma reactors"
+  authors:
+    - family-names: Yoon
+      given-names: Jung Hwan
+    - family-names: Lee
+      given-names: Jae-Hoon
+  journal: "Nature Chemical Engineering"
+  year: 2026
+  doi: "<ARTICLE_DOI>"
+  notes: "submitted"
