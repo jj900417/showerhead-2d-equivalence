@@ -84,7 +84,8 @@ error estimate of *R′*.
 
 Please cite the article and the archived software (see `CITATION.cff`). Zenodo concept DOI
 https://doi.org/10.5281/zenodo.23618885 (resolves to the latest version); each release also has its own
-version DOI (v1.0.0: https://doi.org/10.5281/zenodo.23618886).
+version DOI (v1.0.0: https://doi.org/10.5281/zenodo.23618886;
+v1.0.1: https://doi.org/10.5281/zenodo.23618959).
 
 ## License
 

@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use this software, please cite the article and this software version."
 type: software
 title: "showerhead-equiv: 3D-to-2D equivalence of multi-hole showerhead rings"
-version: "1.0.1"
-date-released: "2026-10-24"
+version: "1.0.2"
+date-released: "2026-10-25"
 doi: "10.5281/zenodo.23618885"
 url: "https://junghwanyoon.dev/tools/showerhead-calculator/v1.0"
 repository-code: "https://github.com/jj900417/showerhead-2d-equivalence"
@@ -12,6 +12,7 @@ authors:
   - family-names: Yoon
     given-names: Jung Hwan
     affiliation: "Department of Mechanical Engineering, Dong-A University, Busan, Republic of Korea"
+    orcid: "https://orcid.org/0009-0009-3661-2002"
 keywords:
   - showerhead
   - remote plasma
@@ -25,6 +26,7 @@ preferred-citation:
   authors:
     - family-names: Yoon
       given-names: Jung Hwan
+      orcid: "https://orcid.org/0009-0009-3661-2002"
     - family-names: Lee
       given-names: Jae-Hoon
   journal: "Nature Chemical Engineering"
