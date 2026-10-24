@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "showerhead-equiv"
-version = "1.0.0"
+version = "1.0.1"
 description = "3D-to-2D equivalence of multi-hole showerhead rings: equivalent annular slot (Eq. 3) and effective wall reaction probability (Eq. 4)"
 readme = "README.md"
 license = { file = "LICENSE" }
