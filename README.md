@@ -4,7 +4,6 @@
 
 > J. H. Yoon and J.-H. Lee, "A 3D-to-2D modelling framework of multi-hole showerheads for
 > process screening of remote plasma reactors," *Nature Chemical Engineering* (submitted, 2026).
-> https://doi.org/`<ARTICLE_DOI>`
 
 For each ring of *N* identical cylindrical holes (radius *r*, length *H*, ring radius *L*) it
 returns the axisymmetric (2D) annular slot that reproduces the ring's flow conductance, and the
